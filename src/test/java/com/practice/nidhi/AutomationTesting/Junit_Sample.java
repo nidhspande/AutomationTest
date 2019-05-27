@@ -35,4 +35,9 @@ public class Junit_Sample {
     public void a4() {
         System.out.println("This is test a4");
     }
+    
+    @Test
+    public void a5() {
+        System.out.println("This is test a5");
+    }
 }
