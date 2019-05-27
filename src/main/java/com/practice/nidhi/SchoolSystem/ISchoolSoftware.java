@@ -1,4 +1,4 @@
-package SchoolSystem;
+package com.practice.nidhi.SchoolSystem;
 
 public interface ISchoolSoftware {
     public void Startdate();

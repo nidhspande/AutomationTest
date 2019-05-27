@@ -1,31 +1,30 @@
-package SchoolSystem;
+package com.practice.nidhi.SchoolSystem;
 
-public class oakridge implements ISchoolSoftware {
+public class chirec implements ISchoolSoftware {
+
 
     public void Startdate() {
         // TODO Auto-generated method stub
 
-        System.out.println("April 30");
+        System.out.println("April 24");
 
     }
 
-
     public void Enddate() {
         // TODO Auto-generated method stub
-        System.out.println("June 30");
+        System.out.println("June 24");
 
     }
 
     public void Term1() {
         // TODO Auto-generated method stub
-        System.out.println("90,000");
+        System.out.println("70,000");
 
     }
 
-
     public void Term2() {
         // TODO Auto-generated method stub
-        System.out.println("190,000");
+        System.out.println("90,000");
 
     }
 

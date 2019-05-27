@@ -1,4 +1,4 @@
-package com.practice.nidhi.JavaExamples;
+package com.practice.nidhi.AutomationTesting.calculator;
 
 public class school {
 
