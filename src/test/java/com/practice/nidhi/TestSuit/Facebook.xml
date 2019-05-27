@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Regression Suite">
+	<test name="Regression Test Cycle-1">
+		<classes>
+			<class name="com.practice.nidhi.TestSuit.Class1" />
+			<class name="com.practice.nidhi.TestSuit.Class2" />
+		</classes>
+	</test>
+</suite>
