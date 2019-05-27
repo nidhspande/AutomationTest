@@ -1,11 +1,11 @@
-package com.practice.nidhi.AutomationTesting.junit;
+package com.practice.nidhi.AutomationTesting;
 
 import org.junit.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class calculator {
+public class calculatorTest {
 
     // Class Level Variable
     public static WebDriver driver = new FirefoxDriver();

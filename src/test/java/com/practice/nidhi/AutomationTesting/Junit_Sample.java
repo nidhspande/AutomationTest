@@ -1,4 +1,4 @@
-package com.practice.nidhi.AutomationTesting.junit;
+package com.practice.nidhi.AutomationTesting;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
