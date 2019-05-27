@@ -1,4 +1,4 @@
-package com.practice.nidhi.AutomationTesting.qshore;
+package com.practice.nidhi.AutomationTesting.WebDriverExamples;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

@@ -1,4 +1,4 @@
-package com.practice.nidhi.AutomationTesting.batch9;
+package com.practice.nidhi.AutomationTesting.WebDriverExamples;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;

@@ -1,4 +1,4 @@
-package com.practice.nidhi.AutomationTesting.ynrcal;
+package com.practice.nidhi.AutomationTesting.UpsideDownCalculator;
 
 public class ynrmath implements Iynr {
 

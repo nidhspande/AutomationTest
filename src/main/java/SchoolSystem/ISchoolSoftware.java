@@ -1,4 +1,4 @@
-package com.practice.nidhi.AutomationTesting.batch9;
+package SchoolSystem;
 
 public interface ISchoolSoftware {
     public void Startdate();

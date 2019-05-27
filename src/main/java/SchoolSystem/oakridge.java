@@ -1,4 +1,4 @@
-package com.practice.nidhi.AutomationTesting.batch9;
+package SchoolSystem;
 
 public class oakridge implements ISchoolSoftware {
 

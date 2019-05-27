@@ -1,4 +1,4 @@
-package com.practice.nidhi.AutomationTesting.myhome;
+package com.practice.nidhi.AutomationTesting.WebDriverExamples;
 
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;

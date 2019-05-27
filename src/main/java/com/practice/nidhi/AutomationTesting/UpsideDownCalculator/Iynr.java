@@ -1,4 +1,4 @@
-package com.practice.nidhi.AutomationTesting.ynrcal;
+package com.practice.nidhi.AutomationTesting.UpsideDownCalculator;
 
 public interface Iynr {
     public int addition(int a, int b);
