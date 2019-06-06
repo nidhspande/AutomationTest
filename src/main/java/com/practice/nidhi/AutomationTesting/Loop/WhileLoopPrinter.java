@@ -1,11 +1,13 @@
 package com.practice.nidhi.AutomationTesting.Loop;
 
-public class loop {
+public class WhileLoopPrinter {
 
 	public static void main(String[] args) {
-		for (int i = 1; i < 1000; i++) {
+		int i = 1;
 
+		while (i < 1000) {
 			System.out.println(i);
+			i = i + 1;
 		}
 
 	}
