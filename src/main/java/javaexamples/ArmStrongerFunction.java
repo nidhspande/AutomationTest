@@ -1,12 +1,18 @@
 package javaexamples;
 
-public class ArmstrongNumber {
+public class ArmStrongerFunction {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		CheckArmstrong(507);
+
+	}
+
+	public static void CheckArmstrong(int a) {
 
 		// Declare Integers
 
-		int a = 407;
 		int b;
 		int c;
 		int d = 0;

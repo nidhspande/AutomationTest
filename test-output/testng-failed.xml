@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]">
-  <test name="Default test(failed)">
+<suite name="Failed suite [Regression Suite]">
+  <test name="Regression Test Cycle-1(failed)">
     <classes>
-      <class name="com.practice.nidhi.TestSuit.DataProviderEx">
+      <class name="com.practice.nidhi.TestSuit.Class2">
         <methods>
           <include name="afterMethod"/>
-          <include name="f" invocation-numbers="0 1"/>
           <include name="beforeMethod"/>
         </methods>
-      </class> <!-- com.practice.nidhi.TestSuit.DataProviderEx -->
+      </class> <!-- com.practice.nidhi.TestSuit.Class2 -->
+      <class name="com.practice.nidhi.TestSuit.Class1">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.practice.nidhi.TestSuit.Class1 -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Regression Test Cycle-1(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->
